@@ -2,7 +2,7 @@
 
 An open-source code (after named for atomic No. 27[^1]) for [Pretendo](https://pretendo.network/) made for homebrewed Nintendo consoles.
 
-## :pictured_frame: Screenshots
+## :framed_picture: Screenshots
 
 Coming soon!
 
